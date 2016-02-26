@@ -1,0 +1,28 @@
+name: dlkm
+favicon: null
+layout_spectrum: 0.9370899943169206
+typography_spectrum: 0.565432958304882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3579647915903479
+  lightness: 0.08642035652883351
+  saturation: 0.07928941305726767
+  rhythmicContrast: 0.7928431066684425
+purpose: []
